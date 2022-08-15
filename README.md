@@ -15,7 +15,7 @@ https://atxchat.herokuapp.com/chats
     
    Having an active connection opened between the client and the server so client can send and receive data. This allows real-time communication using TCP sockets. This is made possible by Socket.io.
 
-   The client starts by connecting to the server through a socket(maybe also assigned to a specific namespace). Once connections is successful, client and server can emit and listen to events. 
+   The client starts by connecting to the server through a socket. Once connections is successful, client and server can emit and listen to events. 
 
 
 ### Running Locally
